@@ -9,7 +9,7 @@
  In the above image, 
  
  1. `64` represents no. of convolutions (filters).
- 2. `(3,3)` represents the shape of the convolution.
+ 2. `(3,3)` represents the shape of the convolution (Filter).
  3. `ReLu` is the activation function.
  4. `28x28` is the shape of input image and `1` is 1 byte color depth. 
 
