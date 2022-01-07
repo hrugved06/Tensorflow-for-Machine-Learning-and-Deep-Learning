@@ -12,3 +12,7 @@ It is neither practicable nor efficient to store the augmented data in memory, w
 Also, the generator's output images will have the same output dimensions as the input photos.
 
 Reference : [ImageDataGenerator in TensorFlow](https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844)
+
+- [Use Of ImageGenerator](tensorflow_image_generator_no_validation.ipynb)
+- [Use of ImageGenerator with Validation data](tensorflow_image_generator_with_validation.ipynb)
+- [Training on compact images](tensorflow_compacted_images_150x150.ipynb)
